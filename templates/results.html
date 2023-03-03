@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Results</title>
+	<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+	.card {
+		margin: 10px;
+		box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+		max-width: 300px;
+		text-align: center;
+	}
+
+	.card img {
+		max-width: 100%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.card h2 {
+		margin: 10px;
+		font-size: 1.5rem;
+		color: #333;
+	}
+</style>
+</head>
+<body>
+	<h1>Image Recognition Results - {{results|length}}</h1>
+	<!-- <div class="container"> -->
+		{% for i in range(results|length) %}
+		<!-- <div class="card"> -->
+			<p>{{i+1}} - {{ results[i]}} </p>
+		<!-- </div> -->
+		{% endfor %}
+	<!-- </div> -->
+</body>
+</html>

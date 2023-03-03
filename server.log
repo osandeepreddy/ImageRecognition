@@ -1,0 +1,79 @@
+2023-02-26 21:02:49,641 - my_logger - INFO - Logging info
+2023-02-26 21:02:50,104 - my_logger - INFO - Logging info
+2023-02-26 21:04:43,188 - my_logger - INFO - Logging info
+2023-02-26 21:04:43,527 - my_logger - INFO - Logging info
+2023-02-26 21:05:14,861 - my_logger - INFO - Logging info
+2023-02-26 21:05:15,201 - my_logger - INFO - Logging info
+2023-02-26 21:12:47,177 - my_logger - INFO - Logging info
+2023-02-26 21:12:47,575 - my_logger - INFO - Logging info
+2023-02-26 21:12:49,995 - my_logger - INFO - Logging info
+2023-02-26 21:12:59,584 - my_logger - INFO - Logging info
+2023-02-26 21:13:07,122 - my_logger - INFO - Logging info
+2023-02-26 21:14:47,192 - my_logger - INFO - Logging info
+2023-02-26 21:14:47,550 - my_logger - INFO - Logging info
+2023-02-26 21:15:03,207 - my_logger - INFO - Logging info
+2023-02-26 21:15:04,745 - my_logger - INFO - Logging info
+2023-02-26 21:15:06,187 - my_logger - INFO - Logging info
+2023-02-26 21:15:12,732 - my_logger - INFO - Logging info
+2023-02-26 21:15:31,925 - my_logger - INFO - Logging info
+2023-02-26 21:15:32,276 - my_logger - INFO - Logging info
+2023-02-26 21:23:29,408 - my_logger - INFO - Logging info
+2023-02-26 21:23:39,015 - my_logger - INFO - Logging info
+2023-02-26 21:25:04,719 - my_logger - INFO - Logging info
+2023-02-26 21:25:17,099 - my_logger - INFO - Logging info
+2023-02-26 21:25:17,444 - my_logger - INFO - Logging info
+2023-02-26 21:31:25,968 - my_logger - INFO - Logging info
+2023-02-26 21:31:26,332 - my_logger - INFO - Logging info
+2023-02-26 21:37:40,294 - my_logger - INFO - Logging info
+2023-02-26 21:37:40,754 - my_logger - INFO - Logging info
+2023-02-26 21:39:38,219 - my_logger - INFO - Logging info
+2023-02-26 21:39:38,784 - my_logger - INFO - Logging info
+2023-02-26 21:45:05,107 - my_logger - INFO - Logging info
+2023-02-26 21:45:05,476 - my_logger - INFO - Logging info
+2023-02-26 21:53:26,516 - my_logger - INFO - Logging info
+2023-02-26 21:53:26,942 - my_logger - INFO - Logging info
+2023-02-26 21:54:49,247 - my_logger - INFO - Logging info
+2023-02-26 21:54:49,832 - my_logger - INFO - Logging info
+2023-02-26 21:59:56,269 - my_logger - INFO - Logging info
+2023-02-26 21:59:56,670 - my_logger - INFO - Logging info
+2023-02-26 22:06:16,294 - my_logger - INFO - Logging info
+2023-02-26 22:06:16,775 - my_logger - INFO - Logging info
+2023-02-26 22:18:32,744 - my_logger - INFO - Logging info
+2023-02-26 22:18:33,175 - my_logger - INFO - Logging info
+2023-02-27 00:44:06,106 - my_logger - INFO - Logging info
+2023-02-27 00:44:06,702 - my_logger - INFO - Logging info
+2023-02-27 00:44:25,464 - my_logger - INFO - Logging info
+2023-02-27 00:44:25,889 - my_logger - INFO - Logging info
+2023-02-27 00:46:43,267 - my_logger - INFO - Logging info
+2023-02-27 00:49:31,095 - my_logger - INFO - Logging info
+2023-02-27 00:49:31,459 - my_logger - INFO - Logging info
+2023-02-27 00:49:42,299 - my_logger - INFO - Logging info
+2023-02-27 00:49:42,641 - my_logger - INFO - Logging info
+2023-02-27 00:54:40,328 - my_logger - INFO - Logging info
+2023-02-27 00:54:40,785 - my_logger - INFO - Logging info
+2023-02-27 01:00:54,636 - my_logger - INFO - Logging info
+2023-02-27 01:00:55,000 - my_logger - INFO - Logging info
+2023-02-27 01:08:53,892 - my_logger - INFO - Logging info
+2023-02-27 01:08:54,683 - my_logger - INFO - Logging info
+2023-02-27 01:14:06,926 - my_logger - INFO - Logging info
+2023-02-27 01:14:07,508 - my_logger - INFO - Logging info
+2023-02-27 01:25:17,147 - my_logger - INFO - Logging info
+2023-02-27 01:25:17,608 - my_logger - INFO - Logging info
+2023-02-27 01:26:21,702 - my_logger - INFO - Logging info
+2023-02-27 01:26:22,049 - my_logger - INFO - Logging info
+2023-02-27 01:55:27,641 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 01:55:31,313 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 01:55:33,450 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 01:55:34,489 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 01:55:35,728 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 02:00:20,155 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 02:00:20,329 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 02:00:20,532 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 02:00:23,677 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 02:00:24,520 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 02:12:00,289 - my_logger - INFO - Classification result for test_93.JPEG:church
+2023-02-27 02:12:01,034 - my_logger - INFO - Classification result for test_11.JPEG:custard apple
+2023-02-27 02:12:01,158 - my_logger - INFO - Classification result for {message['image_name']}: {message['result']}
+2023-02-27 02:12:01,816 - my_logger - INFO - Classification result for test_85.JPEG:carton
+2023-02-27 02:12:02,236 - my_logger - INFO - Classification result for test_70.JPEG:seat belt
+2023-02-27 02:12:02,721 - my_logger - INFO - Classification result for test_46.JPEG:sink
